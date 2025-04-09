@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working on Projects related to Data Analytics
 - 🌱 I’m currently learning Python
-- 💬 Ask me about SQL queries related to day-to-day data need
+- 💬 Ask me about SQL queries related to day-to-day data need, PowerBI, and things related to Data Analytics
 - 📫 How to reach me: www.linkedin.com/in/sanjay-bohra
 <!--
 **sanjaybohraa/sanjaybohraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
